@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportDesigner", "ReportDesigner\ReportDesigner.csproj", "{FDA7422B-0FA0-43D2-9819-E9C43C4DE798}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RibbonBarModule", "RibbonBarModule\RibbonBarModule.csproj", "{1F2572BB-235C-4BD1-9F92-83377A532701}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDA7422B-0FA0-43D2-9819-E9C43C4DE798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDA7422B-0FA0-43D2-9819-E9C43C4DE798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDA7422B-0FA0-43D2-9819-E9C43C4DE798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDA7422B-0FA0-43D2-9819-E9C43C4DE798}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F2572BB-235C-4BD1-9F92-83377A532701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F2572BB-235C-4BD1-9F92-83377A532701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F2572BB-235C-4BD1-9F92-83377A532701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F2572BB-235C-4BD1-9F92-83377A532701}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

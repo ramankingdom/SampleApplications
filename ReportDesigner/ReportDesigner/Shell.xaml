@@ -1,0 +1,13 @@
+﻿<Window x:Class="ReportDesigner.Shell"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:prism="http://www.codeplex.com/prism"
+        Title="Report Designer" Height="Auto" Width="Auto">
+    <DockPanel LastChildFill="True">
+        <ItemsControl  prism:RegionManager.RegionName="RibbonRegion" Name="RibbonRegion" DockPanel.Dock="Top" Height="100" Background="AntiqueWhite"></ItemsControl>
+        <ItemsControl  prism:RegionManager.RegionName="StatusBarRegion" Name="StatusBarRegion" DockPanel.Dock="Bottom" Height="50" Background="Aqua"></ItemsControl>
+        <ItemsControl  prism:RegionManager.RegionName="ToolBarRegion" Name="ToolBarRegion" DockPanel.Dock="Left" Width="200" Background="Azure"></ItemsControl>
+        <ItemsControl  prism:RegionManager.RegionName="PropertiesRegion" Name="PropertiesRegion" DockPanel.Dock="Right" Width="200" Background="Beige"></ItemsControl>
+        <ItemsControl  prism:RegionManager.RegionName="DesignerRegion" Name="DesignerRegion"></ItemsControl>
+    </DockPanel>
+</Window>

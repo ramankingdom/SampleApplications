@@ -1,0 +1,18 @@
+﻿<UserControl x:Class="RibbonBarModule.Views.RibbonBarView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="30" d:DesignWidth="600">
+    <Grid>
+        <StackPanel Orientation="Horizontal">
+            <Label HorizontalContentAlignment="Center" Width="100" Height="30" Background="AliceBlue">File</Label>
+            <Label HorizontalContentAlignment="Center" Width="100" Height="30" Background="AliceBlue">Home</Label>
+            <Label HorizontalContentAlignment="Center" Width="100" Height="30" Background="AliceBlue">Insert</Label>
+            <Label HorizontalContentAlignment="Center" Width="100" Height="30" Background="AliceBlue">Design</Label>
+            <Label HorizontalContentAlignment="Center" Width="100" Height="30" Background="AliceBlue">Page Layout</Label>
+            <Label HorizontalContentAlignment="Center" Width="100" Height="30" Background="AliceBlue">References</Label>
+        </StackPanel>
+    </Grid>
+</UserControl>
