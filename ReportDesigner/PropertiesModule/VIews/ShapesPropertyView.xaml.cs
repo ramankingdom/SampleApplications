@@ -18,9 +18,9 @@ namespace PropertiesModule.VIews
     /// <summary>
     /// Interaction logic for ShapersPropertyView.xaml
     /// </summary>
-    public partial class ShapersPropertyView : UserControl
+    public partial class ShapesPropertyView : UserControl, IShapesPropertyView
     {
-        public ShapersPropertyView()
+        public ShapesPropertyView()
         {
             InitializeComponent();
         }

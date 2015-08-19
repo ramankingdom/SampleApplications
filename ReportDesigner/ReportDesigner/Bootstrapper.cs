@@ -28,6 +28,7 @@ namespace ReportDesigner
             moduleCatalog.AddModule(typeof(RibbonBarModule.RibbonBarModule));
             moduleCatalog.AddModule(typeof(ContentModule.ContentEditorModule));
             moduleCatalog.AddModule(typeof(ToolBoxModule.ToolBoxModule));
+            moduleCatalog.AddModule(typeof(PropertiesModule.PropertiesModule));
         }
     }
 }

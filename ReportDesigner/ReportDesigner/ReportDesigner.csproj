@@ -144,6 +144,10 @@
       <Project>{1f87d5ac-42fd-460d-8ebf-ea1d783aa681}</Project>
       <Name>ContentModule</Name>
     </ProjectReference>
+    <ProjectReference Include="..\PropertiesModule\PropertiesModule.csproj">
+      <Project>{4afe94bd-6e48-4479-a508-ea9fe02aa55b}</Project>
+      <Name>PropertiesModule</Name>
+    </ProjectReference>
     <ProjectReference Include="..\RibbonBarModule\RibbonBarModule.csproj">
       <Project>{1f2572bb-235c-4bd1-9f92-83377a532701}</Project>
       <Name>RibbonBarModule</Name>

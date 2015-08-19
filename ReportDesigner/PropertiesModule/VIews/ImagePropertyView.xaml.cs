@@ -18,7 +18,7 @@ namespace PropertiesModule.VIews
     /// <summary>
     /// Interaction logic for ImagePropertyView.xaml
     /// </summary>
-    public partial class ImagePropertyView : UserControl
+    public partial class ImagePropertyView : UserControl,IImagePropertyView
     {
         public ImagePropertyView()
         {

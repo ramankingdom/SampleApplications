@@ -36,3 +36,14 @@ C:\Users\ramakumar\Documents\GitHub\SampleApplications\ReportDesigner\Properties
 C:\Users\ramakumar\Documents\GitHub\SampleApplications\ReportDesigner\PropertiesModule\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
 C:\Users\ramakumar\Documents\GitHub\SampleApplications\ReportDesigner\PropertiesModule\obj\Debug\PropertiesModule.dll
 C:\Users\ramakumar\Documents\GitHub\SampleApplications\ReportDesigner\PropertiesModule\obj\Debug\PropertiesModule.pdb
+C:\Users\ramakumar\Documents\GitHub\SampleApplications\ReportDesigner\PropertiesModule\obj\Debug\PropertiesModule.csprojResolveAssemblyReference.cache
+C:\Users\ramakumar\Documents\GitHub\SampleApplications\ReportDesigner\PropertiesModule\obj\Debug\VIews\HyperlinkPropertyView.baml
+C:\Users\ramakumar\Documents\GitHub\SampleApplications\ReportDesigner\PropertiesModule\obj\Debug\VIews\ImagePropertyView.baml
+C:\Users\ramakumar\Documents\GitHub\SampleApplications\ReportDesigner\PropertiesModule\obj\Debug\VIews\ShapesPropertyView.baml
+C:\Users\ramakumar\Documents\GitHub\SampleApplications\ReportDesigner\PropertiesModule\obj\Debug\VIews\TextPropertyView.baml
+C:\Users\ramakumar\Documents\GitHub\SampleApplications\ReportDesigner\PropertiesModule\obj\Debug\VIews\HyperlinkPropertyView.g.cs
+C:\Users\ramakumar\Documents\GitHub\SampleApplications\ReportDesigner\PropertiesModule\obj\Debug\VIews\ImagePropertyView.g.cs
+C:\Users\ramakumar\Documents\GitHub\SampleApplications\ReportDesigner\PropertiesModule\obj\Debug\VIews\ShapesPropertyView.g.cs
+C:\Users\ramakumar\Documents\GitHub\SampleApplications\ReportDesigner\PropertiesModule\obj\Debug\VIews\TextPropertyView.g.cs
+C:\Users\ramakumar\Documents\GitHub\SampleApplications\ReportDesigner\PropertiesModule\obj\Debug\PropertiesModule_MarkupCompile.cache
+C:\Users\ramakumar\Documents\GitHub\SampleApplications\ReportDesigner\PropertiesModule\obj\Debug\PropertiesModule.g.resources

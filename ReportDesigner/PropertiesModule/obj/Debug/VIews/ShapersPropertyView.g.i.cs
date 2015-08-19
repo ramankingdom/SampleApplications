@@ -37,7 +37,7 @@ namespace PropertiesModule.VIews {
     /// <summary>
     /// ShapersPropertyView
     /// </summary>
-    public partial class ShapersPropertyView : System.Windows.Controls.UserControl, System.Windows.Markup.IComponentConnector {
+    public partial class ShapesPropertyView : System.Windows.Controls.UserControl, System.Windows.Markup.IComponentConnector {
         
         private bool _contentLoaded;
         

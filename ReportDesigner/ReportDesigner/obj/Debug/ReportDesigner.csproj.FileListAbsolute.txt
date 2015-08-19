@@ -96,3 +96,5 @@ C:\Users\ramakumar\Documents\GitHub\SampleApplications\ReportDesigner\ReportDesi
 C:\Users\ramakumar\Documents\GitHub\SampleApplications\ReportDesigner\ReportDesigner\obj\Debug\ReportDesigner.csproj.GenerateResource.Cache
 C:\Users\ramakumar\Documents\GitHub\SampleApplications\ReportDesigner\ReportDesigner\bin\Debug\ToolBoxModule.dll
 C:\Users\ramakumar\Documents\GitHub\SampleApplications\ReportDesigner\ReportDesigner\bin\Debug\ToolBoxModule.pdb
+C:\Users\ramakumar\Documents\GitHub\SampleApplications\ReportDesigner\ReportDesigner\bin\Debug\PropertiesModule.dll
+C:\Users\ramakumar\Documents\GitHub\SampleApplications\ReportDesigner\ReportDesigner\bin\Debug\PropertiesModule.pdb

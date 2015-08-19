@@ -18,7 +18,7 @@ namespace PropertiesModule.VIews
     /// <summary>
     /// Interaction logic for HyperlinkPropertyView.xaml
     /// </summary>
-    public partial class HyperlinkPropertyView : UserControl
+    public partial class HyperlinkPropertyView : UserControl,IHyperlinkPropertyView
     {
         public HyperlinkPropertyView()
         {

@@ -18,7 +18,7 @@ namespace PropertiesModule.VIews
     /// <summary>
     /// Interaction logic for TextPropertyView.xaml
     /// </summary>
-    public partial class TextPropertyView : UserControl
+    public partial class TextPropertyView : UserControl,ITextPropertyView
     {
         public TextPropertyView()
         {
