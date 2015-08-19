@@ -26,6 +26,8 @@ namespace ReportDesigner
             base.ConfigureModuleCatalog();
             ModuleCatalog moduleCatalog = (ModuleCatalog)this.ModuleCatalog;
             moduleCatalog.AddModule(typeof(RibbonBarModule.RibbonBarModule));
+            moduleCatalog.AddModule(typeof(ContentModule.ContentEditorModule));
+            moduleCatalog.AddModule(typeof(ToolBoxModule.ToolBoxModule));
         }
     }
 }
