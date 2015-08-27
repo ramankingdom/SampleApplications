@@ -14,7 +14,7 @@ namespace PropertiesModule
       private IUnityContainer container;
       public void Initialize()
         {
-
+          
         }
       public PropertiesModule(UnityContainer cont, RegionManager regMan)
       {

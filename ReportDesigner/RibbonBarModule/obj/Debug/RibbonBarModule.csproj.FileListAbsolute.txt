@@ -84,3 +84,9 @@ C:\Users\ramakumar\Documents\GitHub\SampleApplications\ReportDesigner\RibbonBarM
 C:\Users\ramakumar\Documents\GitHub\SampleApplications\ReportDesigner\RibbonBarModule\obj\Debug\RibbonBarModule.csproj.GenerateResource.Cache
 C:\Users\ramakumar\Documents\GitHub\SampleApplications\ReportDesigner\RibbonBarModule\obj\Debug\RibbonBarModule.dll
 C:\Users\ramakumar\Documents\GitHub\SampleApplications\ReportDesigner\RibbonBarModule\obj\Debug\RibbonBarModule.pdb
+C:\Users\ramakumar\Documents\GitHub\SampleApplications\ReportDesigner\RibbonBarModule\bin\Debug\RibbonControlsLibrary.dll
+C:\Users\ramakumar\Documents\GitHub\SampleApplications\ReportDesigner\RibbonBarModule\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\ramakumar\Documents\GitHub\SampleApplications\ReportDesigner\RibbonBarModule\bin\Debug\RibbonControlsLibrary.pdb
+C:\Users\ramakumar\Documents\GitHub\SampleApplications\ReportDesigner\RibbonBarModule\bin\Debug\RibbonControlsLibrary.xml
+C:\Users\ramakumar\Documents\GitHub\SampleApplications\ReportDesigner\RibbonBarModule\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\ramakumar\Documents\GitHub\SampleApplications\ReportDesigner\RibbonBarModule\bin\Debug\Microsoft.Windows.Shell.xml

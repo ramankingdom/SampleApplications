@@ -24,5 +24,10 @@ namespace RibbonBarModule.Views
         {
             InitializeComponent();
         }
+
+        private void Ribbon_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
     }
 }

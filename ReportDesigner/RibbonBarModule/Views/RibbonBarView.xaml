@@ -4,15 +4,18 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              mc:Ignorable="d" 
-             d:DesignHeight="30" d:DesignWidth="600">
-    <Grid>
-        <StackPanel Orientation="Horizontal">
-            <Label HorizontalContentAlignment="Center" Width="100" Height="30" Background="AliceBlue">File</Label>
-            <Label HorizontalContentAlignment="Center" Width="100" Height="30" Background="AliceBlue">Home</Label>
-            <Label HorizontalContentAlignment="Center" Width="100" Height="30" Background="AliceBlue">Insert</Label>
-            <Label HorizontalContentAlignment="Center" Width="100" Height="30" Background="AliceBlue">Design</Label>
-            <Label HorizontalContentAlignment="Center" Width="100" Height="30" Background="AliceBlue">Page Layout</Label>
-            <Label HorizontalContentAlignment="Center" Width="100" Height="30" Background="AliceBlue">References</Label>
-        </StackPanel>
-    </Grid>
+             d:DesignHeight="20" d:DesignWidth="600">
+    <Menu>
+        <MenuItem Header="_File">
+            <MenuItem Header="_New"></MenuItem>
+            <MenuItem Header="_Open"></MenuItem>
+            <MenuItem Header="_Save"></MenuItem>
+            <MenuItem Header="_Exit"></MenuItem>
+        </MenuItem>
+        <MenuItem Header="_Home"></MenuItem>
+        <MenuItem Header="_Insert"></MenuItem>
+        <MenuItem Header="_Design"></MenuItem>
+        <MenuItem Header="_PageLayout"></MenuItem>
+        <MenuItem Header="_References"></MenuItem>
+    </Menu>
 </UserControl>
